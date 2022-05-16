@@ -139,6 +139,10 @@ html,body {
     }
 
     @media screen and (max-width: 768px) {
+        html,body{
+            background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+  
+        }
         .slider-controls {
             letter-spacing: 0.5rem;
             text-align: center;
