@@ -148,13 +148,17 @@ html,body {
             text-align: center;
         }
         .slider-phrase{
-        font-size: 10px;
+        font-size: 12px;
+        line-height: 0.5cm;
+        font-weight:bold;
         }
         #text1{
             width: 43rem;
         }
         #text2{
-            width: 43rem;
+            width: 43.5rem;
+            font-size: 11px;
+
         }
         #text3{
             width: 43rem;
